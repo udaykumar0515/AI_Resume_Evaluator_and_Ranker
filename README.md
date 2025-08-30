@@ -16,7 +16,7 @@ An intelligent platform that leverages **state-of-the-art AI and NLP techniques*
 **See the app in action!**  
 Click the button below to launch the live demo and experience the AI Resume Evaluator for yourself.
 
-[**🚀 Try the Demo**](https://airesumeevaluator.streamlit.app/)
+<a href="https://airesumeevaluator.streamlit.app/" target="_blank"><strong>Try the Demo</strong></a>
 
 ---
 
