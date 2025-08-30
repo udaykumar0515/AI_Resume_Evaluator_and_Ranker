@@ -26,7 +26,7 @@ except Exception as e:
 
 # Configure Streamlit
 st.set_page_config(
-    page_title="AI Resume Evaluator",
+    page_title="AI Resume Evaluator and Ranker",
     page_icon="🚀", 
     layout="wide",
     initial_sidebar_state="expanded"
@@ -1814,7 +1814,7 @@ def sidebar_content():
         st.markdown("---")
         
         # Version and info
-        st.caption("🚀 AI Resume Evaluator")
+        st.caption("🚀 AI Resume Evaluator and Ranker")
         st.caption("Powered by advanced NLP & ML")
         st.caption("Built using Streamlit")
 
@@ -1841,7 +1841,7 @@ def main():
         st.markdown("""
         <div style="text-align: center; padding: 1rem 0; margin-bottom: 2rem;">
             <h1 style="background: linear-gradient(90deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3rem;">
-                🚀 AI Resume Evaluator
+                🚀 AI Resume Evaluator and Ranker
             </h1>
             <p style="font-size: 1.3rem; color: #666; margin: 0;">
                 Advanced AI-powered resume analysis and optimization platform
@@ -1855,7 +1855,7 @@ def main():
             st.markdown("""
             <div style="text-align: center; padding: 1rem 0; margin-bottom: 2rem;">
                 <h1 style="background: linear-gradient(90deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3rem;">
-                    🚀 AI Resume Evaluator 
+                    🚀 AI Resume Evaluator and Ranker 
                 </h1>
                 <p style="font-size: 1.3rem; color: #666; margin: 0;">
                     Advanced AI-powered resume analysis and optimization platform
@@ -1907,7 +1907,7 @@ def main():
             🤖 Powered by Advanced AI • 📊 Enhanced with Machine Learning 
         </p>
         <p style="margin: 0;">
-            <small>© 2024 AI Resume Evaluator - Empowering careers through intelligent analysis</small>
+            <small>© 2024 AI Resume Evaluator and Ranker - Empowering careers through intelligent analysis</small>
         </p>
         <p style="margin-top: 1rem;">
             <span style="background: linear-gradient(45deg, #667eea, #764ba2); padding: 0.5rem 1rem; border-radius: 20px; color: white; font-size: 0.9rem;">

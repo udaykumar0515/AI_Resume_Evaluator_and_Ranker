@@ -13,11 +13,6 @@ Thumbs.db
 *.log
 *.tmp
 
-# Ignore docs and PDFs
-*.pdf
-*.docx
-*.doc
-
 # Ignore Python bytecode
 __pycache__/
 *.py[cod]
