@@ -1656,7 +1656,7 @@ def get_jd_input_enhanced(jds: Dict[str, str], tab_prefix: str) -> str:
             jd_text = st.text_area(
                 "Enter Custom Job Description:",
                 height=200,
-                placeholder="Paste the complete job description here...\\n\\nInclude:\\n• Required skills and technologies\\n• Experience level\\n• Specific responsibilities\\n• Preferred qualifications",
+                placeholder="Paste the complete job description here...",
                 key=f"{tab_prefix}_custom_jd",
                 help="💡 Include specific skills, technologies, and requirements for better matching"
             )
