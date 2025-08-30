@@ -87,7 +87,6 @@ Click the button below to launch the live demo and experience the AI Resume Eval
 │   ├── parser.py
 │   ├── resume_ranker.py
 │   ├── similarity.py
-│   ├── test.py
 │   ├── text_constants.py
 │   └── working_suggestions.py
 ├── requirements.txt
