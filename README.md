@@ -6,7 +6,8 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[![Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now!-brightgreen.svg)](https://airesumeevaluator.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://airesumeevaluator.streamlit.app/)
+
 
 An intelligent platform that leverages **state-of-the-art AI and NLP techniques** to revolutionize resume evaluation and candidate ranking. Built for both **students seeking career guidance** and **recruiters optimizing hiring processes**.
 
