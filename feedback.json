@@ -22,8 +22,7 @@
     "feedback": "[Bug Report] Rating: 4/5 - the side bar icon is on bottom left i think it shoudl be on top right\n",
     "timestamp": "2025-08-30T20:50:48.937256",
     "date_formatted": "2025-08-30 20:50:48"
-  }
-  ,
+  },
   {
     "id": 4,
     "name": "Aisha Khan",
@@ -79,6 +78,29 @@
     "feedback": "[Improvement Suggestion] Rating: 4/5 - Allow custom weighting for JD keywords vs. experience so different roles can prioritize differently.",
     "timestamp": "2025-08-30T21:35:00.000000",
     "date_formatted": "2025-08-30 21:35:00"
+  },
+  {
+    "id": 11,
+    "name": "uday",
+    "email": "example@gmail.com",
+    "feedback": "[General Feedback] Rating: 3/5 - sdfoa;s fj",
+    "timestamp": "2025-08-31T01:36:56.445898",
+    "date_formatted": "2025-08-31 01:36:56"
+  },
+  {
+    "id": 12,
+    "name": "uday ",
+    "email": "example@gmail.com",
+    "feedback": "[General Feedback] Rating: 4/5 - its good",
+    "timestamp": "2025-08-31T13:59:53.839814",
+    "date_formatted": "2025-08-31 13:59:53"
+  },
+  {
+    "id": 13,
+    "name": "uday ",
+    "email": "example@gmail.com",
+    "feedback": "[General Feedback] Rating: 4/5 - good ",
+    "timestamp": "2025-08-31T14:11:12.086385",
+    "date_formatted": "2025-08-31 14:11:12"
   }
-  
 ]
